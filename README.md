@@ -1,2 +1,2 @@
-# anaconda-data-science
+# Anaconda Data Science
 Anaconda Full Data Science Course
